@@ -1,0 +1,5 @@
+git init
+git add DataScienceEcosystem.ipynb
+git commit -m "Initial commit"
+git remote add origin https://jupyter.org/try-jupyter/retro/notebooks/?path=Untitled1.ipynb#Author
+git push -u origin main
